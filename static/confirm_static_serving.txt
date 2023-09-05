@@ -1,0 +1,1 @@
+A test file to confirm working of static file serving.
